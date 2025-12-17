@@ -1,0 +1,22 @@
+[
+  { "name": "Laptop", "category": "Office", "recyclable": true, "image": "images/laptop.svg", "notes": "Remove battery and wipe data.", "tips": ["Back up and factory reset","Remove/return accessories separately"] },
+  { "name": "Desktop Monitor", "category": "Office", "recyclable": true, "image": "images/monitor.svg", "notes": "LCD/LED accepted at e‑waste centers.", "tips": ["Do not break the panel","Transport upright if possible"] },
+  { "name": "Keyboard", "category": "Office", "recyclable": true, "image": "images/keyboard.svg", "notes": "Plastic and electronics are recoverable.", "tips": ["Bundle cables","Wipe down before drop‑off"] },
+  { "name": "Printer", "category": "Office", "recyclable": true, "image": "images/printer.svg", "notes": "Recycle; empty ink/toner separately.", "tips": ["Remove paper and cartridges","Secure moving parts for transport"] },
+  { "name": "Toner Cartridge", "category": "Office", "recyclable": true, "image": "images/toner-cartridge.svg", "notes": "Return via brand take‑back programs.", "tips": ["Keep in original bag to avoid spills"] },
+
+  { "name": "Smartphone", "category": "Household", "recyclable": true, "image": "images/phone.svg", "notes": "Remove SIM and factory reset first.", "tips": ["Disable ‘Find My’/locks","Remove case before drop‑off"] },
+  { "name": "Television", "category": "Household", "recyclable": true, "image": "images/tv.svg", "notes": "CRT/flat panels handled by recyclers.", "tips": ["Two‑person lift for large units"] },
+  { "name": "Microwave Oven", "category": "Household", "recyclable": true, "image": "images/microwave.svg", "notes": "Capacitor handled by professionals.", "tips": ["Unplug and cool before transport"] },
+  { "name": "Electric Kettle", "category": "Household", "recyclable": true, "image": "images/kettle.svg", "notes": "Small appliance e‑waste.", "tips": ["Empty water before drop‑off"] },
+  { "name": "Single‑Use Battery", "category": "Household", "recyclable": true, "image": "images/battery.svg", "notes": "Check local drop‑off locations.", "tips": ["Tape terminals to prevent shorting"] },
+
+  { "name": "Server Rack", "category": "Industrial", "recyclable": true, "image": "images/server.svg", "notes": "Metals and boards recovered.", "tips": ["Remove shelves and PDUs if requested"] },
+  { "name": "Industrial Inverter", "category": "Industrial", "recyclable": true, "image": "images/inverter.svg", "notes": "High‑capacity batteries recycle separately.", "tips": ["Secure terminals; follow MSDS guidance"] },
+  { "name": "Motor Controller", "category": "Industrial", "recyclable": true, "image": "images/motor.svg", "notes": "Contains PCBs and metals.", "tips": ["Label unit if oil‑cooled"] },
+  { "name": "CCTV Camera", "category": "Industrial", "recyclable": true, "image": "images/cctv.svg", "notes": "Electronics accepted by e‑waste centers.", "tips": ["Remove storage media if present"] },
+  { "name": "Networking Switch", "category": "Industrial", "recyclable": true, "image": "images/switch.svg", "notes": "Data wipe before recycling.", "tips": ["Include power supplies separately"] },
+
+  { "name": "Incandescent Bulb", "category": "Household", "recyclable": false, "image": "images/bulb.svg", "notes": "Dispose via general waste; not e‑waste.", "tips": ["Do not place with e‑waste"] },
+  { "name": "Halogen Bulb", "category": "Household", "recyclable": false, "image": "images/bulb.svg", "notes": "Not accepted as e‑waste.", "tips": ["Check local guidance for disposal"] }
+]
